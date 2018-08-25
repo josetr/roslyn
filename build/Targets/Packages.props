@@ -331,6 +331,7 @@
     <UsingToolPdbConverter>true</UsingToolPdbConverter>
     <UsingToolSymbolUploader>true</UsingToolSymbolUploader>
     <UsingToolNuGetRepack>true</UsingToolNuGetRepack>
+    <UsingToolVSSDK>true</UsingToolVSSDK>
   </PropertyGroup>
 
   <PropertyGroup>
