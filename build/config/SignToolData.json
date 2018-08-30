@@ -135,15 +135,15 @@
       "certificate": "VsixSHA2",
       "strongName": null,
       "values": [
-        "Vsix\\ExpressionEvaluatorPackage\\ExpressionEvaluatorPackage.vsix",
-        "Vsix\\Roslyn.Compilers.Extension\\Roslyn.Compilers.Extension.vsix",
-        "Vsix\\Roslyn.VisualStudio.DiagnosticsWindow\\Roslyn.VisualStudio.DiagnosticsWindow.vsix",
-        "Vsix\\Roslyn.VisualStudio.InteractiveComponents\\Roslyn.VisualStudio.InteractiveComponents.vsix",
-        "Vsix\\Roslyn.VisualStudio.Setup\\Roslyn.VisualStudio.Setup.vsix",
-        "Vsix\\RoslynDeployment\\RoslynDeployment.vsix",
-        "Vsix\\Microsoft.VisualStudio.IntegrationTest.Setup\\Microsoft.VisualStudio.IntegrationTest.Setup.vsix",
-        "Vsix\\CodeAnalysisCompilers\\Microsoft.CodeAnalysis.Compilers.vsix",
-        "Vsix\\PortableFacades\\PortableFacades.vsix"
+        "..\\VSSetup\\*\\*\\ExpressionEvaluatorPackage.vsix",
+        "..\\VSSetup\\*\\*\\Roslyn.VisualStudio.InteractiveComponents.vsix",
+        "..\\VSSetup\\*\\*\\Roslyn.VisualStudio.Setup.vsix",
+        "..\\VSSetup\\*\\Insertion\\Microsoft.CodeAnalysis.Compilers.vsix",
+        "..\\VSSetup\\*\\Insertion\\PortableFacades.vsix",
+        "..\\VSSetup\\*\\Roslyn.Compilers.Extension.vsix",
+        "..\\VSSetup\\*\\Roslyn.VisualStudio.DiagnosticsWindow.vsix",
+        "..\\VSSetup\\*\\Microsoft.VisualStudio.IntegrationTest.Setup.vsix",
+        "..\\VSSetup\\*\\RoslynDeployment.vsix"
       ]
     },
     {
